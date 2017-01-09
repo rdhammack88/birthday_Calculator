@@ -1,7 +1,3 @@
-.DS_Store
-*.xcuserstate
-project.xcworkspace/
-xcuserdata/
 
 basicAge.py
 classCreation.py
